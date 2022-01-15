@@ -9,10 +9,11 @@ h2{
 
 }
 table{
-	margin-top: 50px;
 	width:600px;
+	height:200px;
 	margin-left:300px;
 	border:2px solid black;
+	margin-top: 50px;
 }
 th,td{
 	padding:5px;
