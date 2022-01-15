@@ -1,0 +1,21 @@
+h1{
+	text-align:center;
+	padding-top:10px;
+}
+h2{
+	text-align:center;
+	margin-top:-15px;
+	font-size:22px;
+
+}
+table{
+	margin-top: 50px;
+	width:600px;
+	margin-left:300px;
+	border:2px solid black;
+}
+th,td{
+	padding:5px;
+	font-size:19px;
+	border:2px solid black;
+}
